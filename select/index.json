@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "貰い火傷",
+  "base_artist": "Kyiku",
+  "createdAt": "2026-03-04T16:51:12.672967Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "貰い火傷",
+      "artist": "Kyiku",
+      "has_synced": false,
+      "path": "select/pl_01_貰い火傷_Kyiku.txt"
+    }
+  ]
+}
